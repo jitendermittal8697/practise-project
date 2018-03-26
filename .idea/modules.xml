@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SikkimElectricityboard.iml" filepath="$PROJECT_DIR$/SikkimElectricityboard.iml" />
+      <module fileurl="file://C:\Git\1android\practise-project\SikkimElectricityboard.iml" filepath="C:\Git\1android\practise-project\SikkimElectricityboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Git\1android\practise-project\app\app.iml" filepath="C:\Git\1android\practise-project\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practise-project.iml" filepath="$PROJECT_DIR$/practise-project.iml" />
     </modules>
   </component>
 </project>
